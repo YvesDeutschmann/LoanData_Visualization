@@ -3,12 +3,13 @@
 ## About the data
 Prosper Marketplace is a peer-to-peer lending platform. Think of it like eBay for loans. Borrower request personal loans on the platform provided by Prosper. Investors browse this catalog of loan requests and decide whether to partially fund a loan request upon credit scores, ratings and other key figures that are provided by Prosper Marketplace.
 
+![How Prosper works](https://github.com/YvesDeutschmann/LoanData_Visualization/blob/master/How-Prosper-Works-1024x546.png?raw?True)
+
 ## Dataset
 The Prosper loan dataset was provided by Udacity as part of their Data Set Options for the Data Analyst Nanodegee. The dataset includes 113,937 loan requests and 81 variables including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others.
 
-You can view final version of my [Prosper Loan Data Story](https://public.tableau.com/views/LoanViz-feedbackI/Story-final?:embed=y&:display_count=yes&publish=yes) by clicking on image below:
-
-[![visualization image](https://github.com/jubins/Tableau-Projects/blob/master/ProsperLoanData/data/pld_screenshot.png)](https://public.tableau.com/views/LoanViz-feedbackI/Story-final?:embed=y&:display_count=yes&publish=yes)
+You can view my [Prosper Loan Data Story](https://public.tableau.com/views/LoanViz-feedbackI/Story-final?:embed=y&:display_count=yes&publish=yes) by clicking on image below:
+[![Visualization Intro](https://github.com/YvesDeutschmann/LoanData_Visualization/blob/master/Screenshot.JPG?raw=true)](https://public.tableau.com/views/LoanViz-feedbackI/Story-final?:embed=y&:display_count=yes&publish=yes)
 
 ## SUMMARY
 This visualization is trying to investigate the Prosper dataset regarding the use of revolving credits. I
@@ -68,3 +69,10 @@ I decided to use a transparency level to deal with overplotting in certain areas
 The last chart on the bottom is a map that is encoded by color. Encoding with size didn’t work out
 because the range of values was too narrow to quickly recognize differences between the states.
 Encoding over color achieves exactly this.
+
+## Resources
+- [Visualization by Yajie](https://public.tableau.com/views/ProsperLoanData_4/ProsperLoanStoryFirstVersion?%3Aembed=y&%3AshowVizHome=no&%3Adisplay_count=y&%3Adisplay_static_image=y&%3AbootstrapWhenNotified=true)
+- [Visualization by Mark](https://public.tableau.com/profile/mark5321#!/vizhome/Prosper-Final/StoryFinal)
+- [Visualization by Lindsay Moir](https://public.tableau.com/profile/lindsay.moir#!/vizhome/ProsperStoryJuly62018/P2PLenderOpportunityANDRisk)
+- [Exploratory Analysis by fellow student](https://jasonicarter.github.io/Prosper-EDA-R/)
+- [Definition of several financial terms](https://www.investopedia.com/)
